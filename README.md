@@ -3,7 +3,7 @@ This is Impulse Drive made with Sandbox in Portuguese. It's kind of easy to back
 
 # Como Usar
 1. Instale o sistema Sandbox
-2. Instale o mundo com esse link: 
+2. Instale o mundo com esse link: https://raw.githubusercontent.com/brunocalado/sandbox_impulsedrive/main/world.json
 
 # Versão - v0.01
 Está jogavel.
