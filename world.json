@@ -15,7 +15,7 @@
   "socket": false,
   "url": "https://github.com/brunocalado/sandbox_impulsedrive",
   "manifest": "https://raw.githubusercontent.com/brunocalado/sandbox_impulsedrive/main/world.json",  
-  "download": "https://github.com/brunocalado/sandbox_impulsedrive/zip/master",
+  "download": "https://codeload.github.com/brunocalado/sandbox_impulsedrive/zip/main", 
   "license": "",
   "readme": "",
   "bugs": "",
