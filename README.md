@@ -12,9 +12,6 @@ This world uses Sandbox. It was made in Portuguese. But, it's kind easy to back 
 1. Instale o sistema Sandbox
 2. Instale o mundo com esse link: https://raw.githubusercontent.com/brunocalado/sandbox_impulsedrive/main/world.json
 
-# Versão - v0.0.1
-Está jogavel.
-
 # License
 Impulse Drive by Adrian Thoen and edited by Jim Jacobson is licensed under a Creative Commons Attribution-Share-alike 3.0 Unported License. You can check it out on page 4 from the PDF.
 - With art: https://www.drivethrurpg.com/product/279561/Impulse-Drive
